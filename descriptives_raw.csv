@@ -1,0 +1,899 @@
+"No","Variable","Stats / Values","Freqs (% of Valid)","Graph","Text Graph","Valid","Missing"
+"1",1,"nr_practice\
+[factor]","1\. 1\
+2\. 10\
+3\. 100\
+4\. 101\
+5\. 102\
+6\. 103\
+7\. 104\
+8\. 105\
+9\. 106\
+10\. 107\
+[ 297 others ]","\   60 ( 0.2%)\
+\   91 ( 0.4%)\
+\   37 ( 0.1%)\
+\  134 ( 0.5%)\
+\   51 ( 0.2%)\
+\  172 ( 0.7%)\
+\  113 ( 0.5%)\
+\  157 ( 0.6%)\
+\   77 ( 0.3%)\
+\  177 ( 0.7%)\
+\23323 (95.5%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAEeCAMAAABfSxzRAAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAWdJREFUeJzt2KEBw0AMBEE76b/npACDX+QDMxUsEDld30nX2wHPZBWyClmFrGI2677fbnggq5BVyCpkFbIKWYWsQlYhq5BVzC6fSbNZo7cl65ysQlYhq5BVyCpkFbIKWYWsYnb5TJrNWjwtWYmsQlYhq5BVyCpkFbIKWYWsYjZrkqxi9jUi65ysQlYhq5BVyCpkFbIKWYWsYnb5TJrNWjwtWYmsQlYhq5BVyCpkFbIKWYWsYnb5TJrNGv1ByDonq5BVyCpkFbIKWYWsQlYhq5jNmiSrmL0tWedkFbIKWYWsQlYhq5BVyCpkFbPLZ9Js1uhtyTonq5BVyCpkFbIKWYWsQlYhq5hdPpNkFbMnL+ucrEJWIauQVcgqZBWyClmFrGJ2+UyazRq9LVnnZBWyClmFrEJWIauQVcgqZBWzy2fSbNa96J/12SOrkFXIKmQVsgpZhaxCViGrGM5aNDvIJskqZBWyClnFD4/Z5bLLK6YRAAAAAElFTkSuQmCC\">"," \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+IIIIIIIIIIIIIIII","24392\
+(100%)","0\
+(0%)"
+"2",2,"nr_patient\
+[factor]","1\. 1000\
+2\. 1000019\
+3\. 100011\
+4\. 1000120\
+5\. 1000170\
+6\. 1000230\
+7\. 1000235\
+8\. 1000257\
+9\. 1000266\
+10\. 1000281\
+[ 20537 others ]","\    1 ( 0.0%)\
+\    1 ( 0.0%)\
+\    1 ( 0.0%)\
+\    1 ( 0.0%)\
+\    2 ( 0.0%)\
+\    1 ( 0.0%)\
+\    1 ( 0.0%)\
+\    1 ( 0.0%)\
+\    1 ( 0.0%)\
+\    1 ( 0.0%)\
+\24381 (31.8%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAEeCAMAAABfSxzRAAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAWNJREFUeJzt16kBAgAQA0Ge/nuGAhC3ioiZClbE5PGe9Ph3wG+yClmFrEJWMZv1/HfCL7IKWYWsQlYhq5BVyCpkFbIKWcXs85k0mzW6LVl3sgpZhaxCViGrkFXIKmQVsorZ5zNpNmt0W7LuZBWyClmFrEJWIauQVcgqZBWzWZNkFbPbknUnq5BVyCpkFbIKWYWsQlYhq5h9PpNms0a3JetOViGrkFXIKmQVsgpZhaxCVjH7fCbNZo1uS9adrEJWIauQVcgqZBWyClmFrGI2a5KsYnZbsu5kFbIKWYWsQlYhq5BVyCpkFbPPZ9Js1ui2ZN3JKmQVsgpZhaxCViGrkFXIKmafzyRZxezkZd3JKmQVsgpZhaxCViGrkFXIKmafz6TZrNFtybqTVcgqZBWyClmFrEJWIauQVcw+n0mzWc9F36zXHlmFrEJWIauQVcgqZBWyClnFcNai2UM2SVYhq5BVyCo+me/nBI30pk8AAAAASUVORK5CYII=\">"," \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+IIIIIIIIIIIIIIII","24392\
+(100%)","0\
+(0%)"
+"3",3,"date\
+[factor]","1\. 01apr2014\
+2\. 01aug2014\
+3\. 01dec2014\
+4\. 01jul2014\
+5\. 01may2014\
+6\. 01oct2014\
+7\. 01sep2014\
+8\. 02apr2014\
+9\. 02dec2014\
+10\. 02jan2014\
+[ 247 others ]","\  128 ( 0.5%)\
+\   58 ( 0.2%)\
+\  127 ( 0.5%)\
+\   74 ( 0.3%)\
+\   85 ( 0.4%)\
+\   76 ( 0.3%)\
+\   86 ( 0.4%)\
+\  125 ( 0.5%)\
+\  104 ( 0.4%)\
+\  132 ( 0.5%)\
+\23397 (95.8%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAEeCAMAAABfSxzRAAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAWdJREFUeJzt2KEBw0AMBEE76b/npACDX+QDMxUsEDld30nX2wHPZBWyClmFrGI2677fbnggq5BVyCpkFbIKWYWsQlYhq5BVzC6fSbNZi6clK5FVyCpkFbIKWYWsQlYhq5BVzC6fSbNZoz8IWedkFbIKWYWsQlYhq5BVyCpkFbNZk2QVs7cl65ysQlYhq5BVyCpkFbIKWYWsYnb5TJrNGr0tWedkFbIKWYWsQlYhq5BVyCpkFbPLZ9Js1uhtyTonq5BVyCpkFbIKWYWsQlYhq5jNmiSrmL0tWedkFbIKWYWsQlYhq5BVyCpkFbPLZ9Js1uhtyTonq5BVyCpkFbIKWYWsQlYhq5hdPpNkFbMnL+ucrEJWIauQVcgqZBWyClmFrGJ2+UyazRq9LVnnZBWyClmFrEJWIauQVcgqZBWzy2fSbNa96J/12SOrkFXIKmQVsgpZhaxCViGrGM5aNDvIJskqZBWyClnFD60Y5YbQkhmKAAAAAElFTkSuQmCC\">"," \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+IIIIIIIIIIIIIIII","24392\
+(100%)","0\
+(0%)"
+"4",4,"ICPC_1\
+[factor]","1\. 1001\
+2\. 1003\
+3\. 1004\
+4\. 1005\
+5\. 1006\
+6\. 1008\
+7\. 1009\
+8\. 1012\
+9\. 1013\
+10\. 1020\
+[ 446 others ]","\   11 ( 0.0%)\
+\   11 ( 0.0%)\
+\   58 ( 0.2%)\
+\    1 ( 0.0%)\
+\    4 ( 0.0%)\
+\    1 ( 0.0%)\
+\    7 ( 0.0%)\
+\   24 ( 0.1%)\
+\    4 ( 0.0%)\
+\    6 ( 0.0%)\
+\24246 (99.2%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAEeCAMAAABfSxzRAAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAWNJREFUeJzt16kBAgAQA0Ge/nuGAhC3ioiZClbE5PGe9Ph3wG+yClmFrEJWMZv1/HfCL7IKWYWsQlYhq5BVyCpkFbIKWcXs85k0mzW6LVl3sgpZhaxCViGrkFXIKmQVsorZ5zNpNmt0W7LuZBWyClmFrEJWIauQVcgqZBWzWZNkFbPbknUnq5BVyCpkFbIKWYWsQlYhq5h9PpNms0a3JetOViGrkFXIKmQVsgpZhaxCVjH7fCbNZo1uS9adrEJWIauQVcgqZBWyClmFrGI2a5KsYnZbsu5kFbIKWYWsQlYhq5BVyCpkFbPPZ9Js1ui2ZN3JKmQVsgpZhaxCViGrkFXIKmafzyRZxezkZd3JKmQVsgpZhaxCViGrkFXIKmafz6TZrNFtybqTVcgqZBWyClmFrEJWIauQVcw+n0mzWc9F36zXHlmFrEJWIauQVcgqZBWyClnFcNai2UM2SVYhq5BVyCo+me/nBI30pk8AAAAASUVORK5CYII=\">"," \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+IIIIIIIIIIIIIIII","24373\
+(99.92%)","19\
+(0.08%)"
+"5",5,"ICPC_2\
+[factor]","1\. 1001\
+2\. 1003\
+3\. 1004\
+4\. 1005\
+5\. 1006\
+6\. 1008\
+7\. 1009\
+8\. 1010\
+9\. 1012\
+10\. 1013\
+[ 440 others ]","\    4 ( 0.0%)\
+\    8 ( 0.1%)\
+\   46 ( 0.4%)\
+\    3 ( 0.0%)\
+\   11 ( 0.1%)\
+\    8 ( 0.1%)\
+\    8 ( 0.1%)\
+\    1 ( 0.0%)\
+\   25 ( 0.2%)\
+\    3 ( 0.0%)\
+\10408 (99.4%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAEeCAMAAABfSxzRAAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAWdJREFUeJzt2KEBw0AMBEE76b/npACDX+QDMxUsEDld30nX2wHPZBWyClmFrGI263474YmsQlYhq5BVyCpkFbIKWYWsQlYxu3wmzWaN3pasc7IKWYWsQlYhq5BVyCpkFbKK2eUzaTbrXjwuWYWsQlYhq5BVyCpkFbIKWYWsYjZrkqxi9jUi65ysQlYhq5BVyCpkFbIKWYWsYnb5TJrNGr0tWedkFbIKWYWsQlYhq5BVyCpkFbPLZ9Js1uhtyTonq5BVyCpkFbIKWYWsQlYhq5jNmiSrmL0tWedkFbIKWYWsQlYhq5BVyCpkFbPLZ9Js1uhtyTonq5BVyCpkFbIKWYWsQlYhq5hdPpNkFbMnL+ucrEJWIauQVcgqZBWyClmFrGJ2+UyazRq9LVnnZBWyClmFrEJWIauQVcgqZBWzy2fSbNa96J/12SOrkFXIKmQVsgpZhaxCViGrGM5aNDvIJskqZBWyClnFD6ZP5tjZmy5JAAAAAElFTkSuQmCC\">"," \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+IIIIIIIIIIIIIIII","10525\
+(43.15%)","13867\
+(56.85%)"
+"6",6,"ICPC_3\
+[factor]","1\. 1001\
+2\. 1003\
+3\. 1004\
+4\. 1006\
+5\. 1009\
+6\. 1012\
+7\. 1013\
+8\. 1020\
+9\. 1027\
+10\. 1029\
+[ 346 others ]","\   4 ( 0.1%)\
+\   3 ( 0.1%)\
+\  29 ( 1.0%)\
+\   2 ( 0.1%)\
+\   4 ( 0.1%)\
+\   9 ( 0.3%)\
+\   2 ( 0.1%)\
+\   1 ( 0.0%)\
+\   1 ( 0.0%)\
+\   6 ( 0.2%)\
+\2905 (97.5%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAEeCAMAAABfSxzRAAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAW1JREFUeJzt2aEBwzAQBEE76b/nuIAALfKBmQoWPDnp+k663g74T1Yhq5BVyCpms+63E/6RVcgqZBWyClmFrEJWIauQVcgqZpfPpNms0duSdU5WIauQVcgqZBWyClmFrEJWMbt8Js1m3ffgdT1ZH1mnZBWyClmFrEJWIauQVcgqZBWzE2OSrGL2aUTWOVmFrEJWIauQVcgqZBWyClnF7PKZNJs1eluyzskqZBWyClmFrEJWIauQVcgqZpfPpNmsxa9qWYmsQlYhq5BVyCpkFbIKWYWsYjZrkqxi9mlE1jlZhaxCViGrkFXIKmQVsgpZxezymTSbNXpbss7JKmQVsgpZhaxCViGrkFXIKmaXzyRZxezJyzonq5BVyCpkFbIKWYWsQlYhq5hdPpNms0ZvS9Y5WYWsQlYhq5BVyCpkFbIKWcXs8pk0m3UverI+e2QVsgpZhaxCViGrkFXIKmQVw1mLZgfZJFmFrEJWIav4ASCn5pT+ONWRAAAAAElFTkSuQmCC\">"," \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+IIIIIIIIIIIIIIII","2966\
+(12.16%)","21426\
+(87.84%)"
+"7",7,"ICPC_4\
+[factor]","1\. 1202\
+2\. 1402\
+3\. 1788\
+4\. 1789","\1 (25.0%)\
+\1 (25.0%)\
+\1 (25.0%)\
+\1 (25.0%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAABoCAMAAAAkR/m5AAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAKhJREFUaIHt17ENwDAMxEAn3n/nZAA1rMSCNwEL2cCfq3S2A2ZlEec+Rn/W61MWURZRFlEWURZRFlEWURZRFiHOMtIOMiVt1vYZjbwvcbthUBZRFlEWURZRFlEWURZRFlEW0XxFyiK0t2V9idsNg7KIsoiyiLKIsoiyiLKIsghxlpF2+SiVRWhP3vpBbDcMyiLKIsoiyiLKIsoiyiLKIsRZRtrlo1QW8QGZ2X9/log28AAAAABJRU5ErkJggg==\">","IIIIIIIIIIIIIIII \ 
+IIIIIIIIIIIIIIII \ 
+IIIIIIIIIIIIIIII \ 
+IIIIIIIIIIIIIIII","4\
+(0.02%)","24388\
+(99.98%)"
+"8",8,"ICPC_5\
+[factor]","1\. 1584","\1 (100.0%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAAaCAMAAABirVVzAAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAD9JREFUSInt17EBACAQg8Do77+zDmBDZQpuAloylTKr0c3afcwizCLMIswizCLMIswizCLMIswiirMa5feovh08xh5nnuEyXgAAAABJRU5ErkJggg==\">","IIIIIIIIIIIIIIII","1\
+(0%)","24391\
+(100%)"
+"9",9,"AB_nose_infection\
+[factor]","1\. 0\
+2\. 1","\12516 (51.3%)\
+\11876 (48.7%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA0CAMAAABfCzE1AAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAGdJREFUWIXt16EBgDAQxdCW7r8zKIrARDUib4KI++LGUhqnA/6NNY2erMunLKIsoiyiLKIsoiyiLKIsoiyiLGJqPx+lsgjbbe2s07P7KosoiyiLKIsoiyiLKIsoiyiL8GepvFlK0qwbkyU/OtEyLUsAAAAASUVORK5CYII=\">","IIIIIIIIIIIIIIII \ 
+IIIIIIIIIIIIIII","24392\
+(100%)","0\
+(0%)"
+"10",10,"type_AB_nose\
+[factor]","1\. 0\
+2\. 1\
+3\. 2\
+4\. 3\
+5\. 4\
+6\. 5","\12516 (51.3%)\
+\ 2685 (11.0%)\
+\  562 ( 2.3%)\
+\ 1169 ( 4.8%)\
+\ 7325 (30.0%)\
+\  135 ( 0.5%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACcCAMAAACqRKK2AAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAPFJREFUeJzt2luKQjEQQMGr7n/PzgMUx0E9yCUN1llBfaShE7KdRratBvwfVgmrtJ0OE/tiHeeFVcIqYZWwSlglrBJWCauEVTqM3eVHhlUay3p6/Baxng0rFhYWFhYWFhYW1sezZu7yI8MqXc/WaslNl0nEeiGsElYJq4RVwiphlbBKWCWs0tgrxsiwSndPI6tBv/19SMJ6FFYJq4RVwiphlbBKWCWs0lzWzF1+ZFil/X6Av8s67hIWFhYWFhYWFhYW1t6smVeMkWGVfs7WasR935OI9WpYJawSVgmrhFXCKmGVsEpzWTN3+ZFhlbBKQ1lnajP2Wbhy6MIAAAAASUVORK5CYII=\">","IIIIIIIIIIIIIIII \ 
+III \ 
+ \ 
+I \ 
+IIIIIIIII \ 
+","24392\
+(100%)","0\
+(0%)"
+"11",11,"CRP_values\
+[factor]","1\. .3\
+2\. .4\
+3\. .6\
+4\. .7\
+5\. .8\
+6\. .9\
+7\. 0\
+8\. 1\
+9\. 1.1\
+10\. 1.2\
+[ 132 others ]","\  4 ( 0.7%)\
+\  2 ( 0.3%)\
+\  4 ( 0.7%)\
+\  1 ( 0.2%)\
+\  5 ( 0.8%)\
+\  1 ( 0.2%)\
+\  4 ( 0.7%)\
+\ 28 ( 4.6%)\
+\  1 ( 0.2%)\
+\  1 ( 0.2%)\
+\556 (91.2%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAEeCAMAAABfSxzRAAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAXtJREFUeJzt2rFtw1AUBEHR7r9nCTAEOSAgbsQLZirY4AW8Dz5+Jz3uDjgnq5BVyCpkFbNZx3F3wwlZhaxCViGrkFXIKmQVsgpZhaxidvlMms0avS1Z18kqZBWyClmFrEJWIauQVcgqZpfPpNms0duSdZ2sQlYhq5BVyCpkFbIKWYWsYjZrkqzidVt3J5yRVcgqZBWyClmFrEJWIauQVcgqZpfPpNms0TcIWdfJKmQVsgpZhaxCViGrkFXIKmaXz6TZrMXTkpXIKmQVsgpZhaxCViGrkFXIKmazJskqZp9GZF0nq5BVyCpkFbIKWYWsQlYhq5hdPpNms463u1P+e2X9/JH1naxCViGrkFXIKmQVsgpZxW7W5rf8JFnFbNbUqb/JKmQVsgpZhaxCViGrkFXIKmQVs8tn0mzW6G3Juk5WIauQVcgqZBWyClmFrEJWMbt8Js1mHYs+PxwskVXIKmQVsgpZhaxCViGrkFUMZy2aHWSTZBWyClmFrOIJeiHlZctaRYEAAAAASUVORK5CYII=\">"," \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+IIIIIIIIIIIIIIII","607\
+(2.49%)","23785\
+(97.51%)"
+"12",12,"ind_crp\
+[factor]","1\. 1\
+2\. 2\
+3\. 3","\445 (73.3%)\
+\142 (23.4%)\
+\ 20 ( 3.3%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAABOCAMAAAD1sh+SAAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAIVJREFUaIHt17ENAkEQBMEH8s8ZLF5IGLTDj1EdQUl3a8zxmOy4GvC9WdZtsRfrvhdWCauEVcIqYZWwSlglrBJWaZi12Owgm2yWVZ/9X6x4JFhYWFhYWFhYWFhYI6zNiTEZVun8W1dLPnpfItYPYZWwSlglrBJWCauEVcIqYZVmJ8ZkWKUn3D11bQ+4PpEAAAAASUVORK5CYII=\">","IIIIIIIIIIIIIIII \ 
+IIIII \ 
+","607\
+(2.49%)","23785\
+(97.51%)"
+"13",13,"days_prev_cont\
+[factor]","1\. 100\
+2\. 101\
+3\. 102\
+4\. 103\
+5\. 104\
+6\. 105\
+7\. 106\
+8\. 107\
+9\. 108\
+10\. 109\
+[ 308 others ]","\  13 ( 0.3%)\
+\  11 ( 0.3%)\
+\  14 ( 0.4%)\
+\  16 ( 0.4%)\
+\  23 ( 0.6%)\
+\  21 ( 0.5%)\
+\  11 ( 0.3%)\
+\   7 ( 0.2%)\
+\  11 ( 0.3%)\
+\  14 ( 0.4%)\
+\3704 (96.4%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAEeCAMAAABfSxzRAAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAWdJREFUeJzt2KEBw0AMBEE76b/npACDX+QDMxUsEDld30nX2wHPZBWyClmFrGI2677fbnggq5BVyCpkFbIKWYWsQlYhq5BVzC6fSbNZo7cl65ysQlYhq5BVyCpkFbIKWYWsYnb5TJrNGr0tWedkFbIKWYWsQlYhq5BVyCpkFbNZk2QVs7cl65ysQlYhq5BVyCpkFbIKWYWsYnb5TJrNGr0tWedkFbIKWYWsQlYhq5BVyCpkFbPLZ9Js1uhtyTonq5BVyCpkFbIKWYWsQlYhq5jNmiSrmL0tWedkFbIKWYWsQlYhq5BVyCpkFbPLZ9Js1uJpyUpkFbIKWYWsQlYhq5BVyCpkFbPLZ5KsYvY1IuucrEJWIauQVcgqZBWyClmFrGJ2+UyazRq9LVnnZBWyClmFrEJWIauQVcgqZBWzy2fSbNa96J/12SOrkFXIKmQVsgpZhaxCViGrGM5aNDvIJskqZBWyClnFD4ta5YZAaqENAAAAAElFTkSuQmCC\">"," \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+IIIIIIIIIIIIIIII","3845\
+(15.76%)","20547\
+(84.24%)"
+"14",14,"outcome_2\
+[factor]","1\. 0\
+2\. 1","\ 3473 (14.9%)\
+\19802 (85.1%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA0CAMAAABfCzE1AAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAGBJREFUWIXt17ERwDAMAzEn3n/nLBD7jpVY4CdAIRVcu7I1Dfhv7efcKOs9hYWFhYWFhYWFhYWFlbM6l09lWEnX25rr9olzYSVhJWElYSVhJWElYSVhJWElFbMaqx1klX2nhUp8iuPi0gAAAABJRU5ErkJggg==\">","II \ 
+IIIIIIIIIIIIIIII","23275\
+(95.42%)","1117\
+(4.58%)"
+"15",15,"outcome_4\
+[factor]","1\. 0\
+2\. 1","\ 4515 (20.3%)\
+\17705 (79.7%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA0CAMAAABfCzE1AAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAGBJREFUWIXt16EBwDAMA8G02X/nLlBgkUTgfoIDNtDala3bgP/WfmYdZ72TsLCwsLCwsLCwsLCwZqzO5VMZVtL4ts42/cSzYSVhJWElYSVhJWElYSVhJWElFbMaqx1klX3aLklQErA56wAAAABJRU5ErkJggg==\">","IIII \ 
+IIIIIIIIIIIIIIII","22220\
+(91.1%)","2172\
+(8.9%)"
+"16",16,"outcome_6\
+[factor]","1\. 0\
+2\. 1","\ 5009 (23.4%)\
+\16418 (76.6%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA0CAMAAABfCzE1AAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAGBJREFUWIXt17ENgEAMBMGH779nGkBCmzwOZiuYwA5u7ZGtvwHvrX2lzrHuEBYWFhYWFhYWFhYW1gdr5vIZGVap3tah4iceCquEVcIqYZWwSlglrBJWCas0mDWxsYNsZA8+RUihKc8jUAAAAABJRU5ErkJggg==\">","IIII \ 
+IIIIIIIIIIIIIIII","21427\
+(87.84%)","2965\
+(12.16%)"
+"17",17,"sex\
+[factor]","1\. 1\
+2\. 2","\ 8130 (33.3%)\
+\16262 (66.7%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA0CAMAAABfCzE1AAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAF9JREFUWIXt17ENgEAQA8EH+u+ZBkgsWcLBbAUT3AU+z2Tnb8B357l6VVl3KywsLCwsLCwsLCwsrNXlMxlWUvW2ejU/sRdWElYSVhJWElYSVhJWElYSVtIwa7HZQTbZC8aYRcw93zxIAAAAAElFTkSuQmCC\">","IIIIIII \ 
+IIIIIIIIIIIIIIII","24392\
+(100%)","0\
+(0%)"
+"18",18,"postalcode\
+[factor]","1\. 0\
+2\. 10\
+3\. 11\
+4\. 12\
+5\. 13\
+6\. 14\
+7\. 15\
+8\. 16\
+9\. 17\
+10\. 18\
+[ 76 others ]","\  147 ( 0.6%)\
+\ 1218 ( 5.0%)\
+\  247 ( 1.0%)\
+\  806 ( 3.3%)\
+\    2 ( 0.0%)\
+\  323 ( 1.3%)\
+\  352 ( 1.4%)\
+\   50 ( 0.2%)\
+\  211 ( 0.9%)\
+\  117 ( 0.5%)\
+\20919 (85.8%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAEeCAMAAABfSxzRAAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAZtJREFUeJzt3UFOAzEUBcEE7n9nIEAAJRLTq3mLqhP0Ykbyty358jrpcnbAc7IKWYWsQlYxm3W9nt3whKxCViGrkFXIKmQVsgpZhaxCVjE7+Uyazbrend3yy3vWyxdZ/5JVyCpkFbIKWYWsQlYhq9jN2lzLT5JV3L6tsyMeffyJso6SVcgqZBWyClmFrEJWIauQVcyOGJNkFfetkbND/vreSJJ1hKxCViGrkFXIKmQVsgpZxW7W5lp+kqzi/ds6O+EZWYWsQlYhq5BVyCpkFbIKWYWsYnbymTSbNbf/8GH3ZF/WYbIKWYWsQlYhq5BVyCpkFbtZmyPGJFnF5xH62RUPbhcOZB0kq5BVyCpkFbIKWYWsQlaxm7W5lp8kq5g9Qpd1nKxCViGrkFXIKmQVsgpZhaxidvKZJKuYPUJfvXAg6zBZhaxCViGrkFXIKmQVsorZtfwkWcVl9YFVWcfJKmQVsgpZhaxCViGrkFXIKmYnn0mzWddFl5/naIfIKmQVsgpZhaxCViGrkFXIKoazFs0OZJNkFbIKWYWs4g2HhuQQcxFanwAAAABJRU5ErkJggg==\">"," \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+IIIIIIIIIIIIIIII","24392\
+(100%)","0\
+(0%)"
+"19",19,"age\
+[factor]","1\. 18\
+2\. 19\
+3\. 20\
+4\. 21\
+5\. 22\
+6\. 23\
+7\. 24\
+8\. 25\
+9\. 26\
+10\. 27\
+[ 70 others ]","\  187 ( 0.8%)\
+\  220 ( 0.9%)\
+\  235 ( 1.0%)\
+\  232 ( 0.9%)\
+\  235 ( 1.0%)\
+\  255 ( 1.0%)\
+\  268 ( 1.1%)\
+\  281 ( 1.1%)\
+\  281 ( 1.1%)\
+\  289 ( 1.2%)\
+\21909 (89.8%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAEeCAMAAABfSxzRAAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAXtJREFUeJzt17txA0EMBUGelH/O+tg0MBaf0R3BGMAW9vU96fXpgPdkFbIKWYWsYjbreT7d8IasQlYhq5BVyCpkFbIKWYWsQlYx+/OZNJv1LA7Xb9aXrCtZhaxCViGrkFXIKmQVsordrM1bfpKsYna2VjdR1pmsQlYhq5BVyCpkFbIKWcVu1uYXY5KsYna2VjdR1pmsQlYhq5BVyCpkFbIKWcXsLT9JVjE7W6ubKOtMViGrkFXIKmQVsgpZhaxi9pafJKuYna3VTZR1JquQVcgqZBWyClmFrEJWsZu1+cWYJKuYna3VTZR1JquQVcgqZBWyClmFrEJWMXvLT5JVzM7W6ibKOpNVyCpkFbIKWYWsQlYhq5i95SfJKmazRkd+9YGQdSarkFXIKmQVsgpZhaxCVjF7y0+SVczO1uomyjqTVcgqZBWyClmFrEJWIauYveUnySr+Z2vP3ybukVXIKmQVsgpZhaxCViGrkFUMZy2a/ZBNklXIKmQVsoofGyrki0ZEhZUAAAAASUVORK5CYII=\">"," \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+IIIIIIIIIIIIIIII","24392\
+(100%)","0\
+(0%)"
+"20",20,"poor_immune_response\
+[factor]","1\. 0\
+2\. 1","\19224 (78.8%)\
+\ 5168 (21.2%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA0CAMAAABfCzE1AAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAGBJREFUWIXt17EBgDAMA0GH7L8zDEARNaDifoIr7EKzK5u/Ae/NXo09rKsvrCSsJKwkrCSsJKwkrCSsJKwkrKRVu3wqw0oKbutj1ul3YGFhYWFhYWFhYWF1sTonRmWlrBuE7UiyeVaHAAAAAABJRU5ErkJggg==\">","IIIIIIIIIIIIIIII \ 
+IIII","24392\
+(100%)","0\
+(0%)"
+"21",21,"nr_medication\
+[factor]","1\. 0\
+2\. 1\
+3\. 10\
+4\. 11\
+5\. 12\
+6\. 13\
+7\. 14\
+8\. 15\
+9\. 16\
+10\. 17\
+[ 33 others ]","\  459 ( 1.9%)\
+\ 1884 ( 7.7%)\
+\ 1030 ( 4.2%)\
+\  819 ( 3.4%)\
+\  684 ( 2.8%)\
+\  563 ( 2.3%)\
+\  525 ( 2.1%)\
+\  400 ( 1.6%)\
+\  313 ( 1.3%)\
+\  259 ( 1.1%)\
+\17456 (71.5%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAEeCAMAAABfSxzRAAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAatJREFUeJzt3UFSG1EQBUFZ3P/OtgDhAexgajVvkXmCWnQrejZft5dJt6sD/k1WIauQVcgqZrN+PVyd8dWfrPv9LuscWYWsQlYhq5BVyCpkFbKK3azNW36SrOJ9to6uTnp428QjWf8nq5BVyCpkFbIKWYWsQlaxm7V5y0+SVRxn6+qWg8MmyvqRrEJWIauQVcgqZBWyClmFrGL2E2OSrOLvbF1d8snHJso6QVYhq5BVyCpkFbIKWYWsYjdr85afJKv4mK2rQz57bqKsM2QVsgpZhaxCViGrkFXIKnazNm/5SbKK52xd3fHF+ybKOkVWIauQVcgqZBWyClmFrEJWMfuJMUlWMTtbq5so6zRZhaxCViGrkFXIKmQVsorZW36SrOK2+vLw6jvNsk6TVcgqZBWyClmFrEJWIauYveUnySpmsxYn/u0HQtZJsgpZhaxCViGrkFXIKmQVu1mbt/wkWcXrbF0d8d1jE2WdJauQVcgqZBWyClmFrEJWsZu1ectPklXcvv/B6oLn+1tbZBWyClmFrEJWIauQVcgqZBXDWYtmP8gmySpkFbIKWcVvahngu7qpz6sAAAAASUVORK5CYII=\">"," \ 
+I \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+IIIIIIIIIIIIIIII","24392\
+(100%)","0\
+(0%)"
+"22",22,"diab_morb\
+[factor]","1\. 0\
+2\. 1","\22714 (93.1%)\
+\ 1678 ( 6.9%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA0CAMAAABfCzE1AAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAGhJREFUWIXt17EJACAQBMFX++9ZI0EQZCMv2Klgg//gakSq3wF3NVqildXzmEWYRZhFmEWYRZhFmEWYRZhFmEW02OUTySzivK3fNdvxiWY9mEWYRZhFmEWYRZhFmEWYRZhFxE6MSKFZE93wS2o25MgzAAAAAElFTkSuQmCC\">","IIIIIIIIIIIIIIII \ 
+I","24392\
+(100%)","0\
+(0%)"
+"23",23,"HIV_morb\
+[factor]","1\. 0\
+2\. 1","\24342 (99.8%)\
+\   50 ( 0.2%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA0CAMAAABfCzE1AAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAGJJREFUWIXt16EBADAMw7Bu+//n9YASowZYFxiEpF6k2g6Y1TuJOuvmMYswizCLMIswizCLMIswizCLMIs4sc8nkllEb2s7YWIWYRZhFmEWYRZhFmEWYRZhFmEWEZsVKTTrA6qpTIah26RPAAAAAElFTkSuQmCC\">","IIIIIIIIIIIIIIII \ 
+","24392\
+(100%)","0\
+(0%)"
+"24",24,"kanker_morb\
+[factor]","1\. 0\
+2\. 1","\22418 (91.9%)\
+\ 1974 ( 8.1%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA0CAMAAABfCzE1AAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAGhJREFUWIXt17ENACAMxMAA++8MBRVCSK74wjeBi6T4GpHqd8BdjZZoZfU8ZhFmEWYRZhFmEWYRZhFmEWYRZhEtdvlEMos4b+t3z3Z8ollPZhFmEWYRZhFmEWYRZhFmEWYRsRMjUmjWBGKJSzrx1snfAAAAAElFTkSuQmCC\">","IIIIIIIIIIIIIIII \ 
+I","24392\
+(100%)","0\
+(0%)"
+"25",25,"gezichtst_morb\
+[factor]","1\. 0\
+2\. 1","\23558 (96.6%)\
+\  834 ( 3.4%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA0CAMAAABfCzE1AAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAGhJREFUWIXt16EVACEMBNEA/fcMgjP3EIxixfwKRiRia0Sq1wFnNVqildXzmEWYRZhFmEWYRZhFmEWYRZhFmEW02OUTySziu63XHT/7E826YhZhFmEWYRZhFmEWYRZhFmEWETsxIoVmTVKDS/qelodoAAAAAElFTkSuQmCC\">","IIIIIIIIIIIIIIII \ 
+","24392\
+(100%)","0\
+(0%)"
+"26",26,"gehoorst_morb\
+[factor]","1\. 0\
+2\. 1","\23447 (96.1%)\
+\  945 ( 3.9%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA0CAMAAABfCzE1AAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAGlJREFUWIXt17ENACEMBEED/fcMCS+9RMBGXLBTwQZ2cDUi1euAsxot0crqecwizCLMIswizCLMIswizCLMIswiWuzyiWQW8d3W65C//Ylm3TCLMIswizCLMIswizCLMIswi4idGJFCsyaULEviiIjmJwAAAABJRU5ErkJggg==\">","IIIIIIIIIIIIIIII \ 
+","24392\
+(100%)","0\
+(0%)"
+"27",27,"aangaf_morb\
+[factor]","1\. 0\
+2\. 1","\24321 (99.7%)\
+\   71 ( 0.3%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA0CAMAAABfCzE1AAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAGFJREFUWIXt1yECACAMw8AN/v9nwGOiVpF7QURNa0eq6YC/2p3oZq08ZhFmEWYRZhFmEWYRZhFmEWYRZhEd+3wimUW8bU03fJhFmEWYRZhFmEWYRZhFmEWYRZhFxGZFCs06TMBMWusu2+4AAAAASUVORK5CYII=\">","IIIIIIIIIIIIIIII \ 
+","24392\
+(100%)","0\
+(0%)"
+"28",28,"coronhartz_morb\
+[factor]","1\. 0\
+2\. 1","\23247 (95.3%)\
+\ 1145 ( 4.7%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA0CAMAAABfCzE1AAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAGlJREFUWIXt1zEOACEMxMAA//8zVJxOosAVW3he4CIptkakeh1wVqMlWlk9j1mEWYRZhFmEWYRZhFmEWYRZhFlEi10+kcwivtt6XfKzP9GsC2YRZhFmEWYRZhFmEWYRZhFmEbETI1Jo1gTV7UvK/r75jwAAAABJRU5ErkJggg==\">","IIIIIIIIIIIIIIII \ 
+","24392\
+(100%)","0\
+(0%)"
+"29",29,"hartfalen_morb\
+[factor]","1\. 0\
+2\. 1","\24118 (98.9%)\
+\  274 ( 1.1%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA0CAMAAABfCzE1AAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAGdJREFUWIXt1yECACEMxMAC//8zcPYQRLEi84KIVmyNSPU64KxGS7Syeh6zCLMIswizCLMIswizCLMIswiziBa7fCKZRXy39Trib3+iWbfMIswizCLMIswizCLMIswizCJiJ0ak0KwJjglMQscL+UYAAAAASUVORK5CYII=\">","IIIIIIIIIIIIIIII \ 
+","24392\
+(100%)","0\
+(0%)"
+"30",30,"beroerte_morb\
+[factor]","1\. 0\
+2\. 1","\23944 (98.2%)\
+\  448 ( 1.8%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA0CAMAAABfCzE1AAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAGhJREFUWIXt16EVACEMBNEA/fcMj5OHYBQr5lcwIhFbI1K9Djir0RKtrJ7HLMIswizCLMIswizCLMIswizCLKLFLp9IZhHfbb2u+NmfaNYlswizCLMIswizCLMIswizCLOI2IkRKTRrAs9qTCpyTFQUAAAAAElFTkSuQmCC\">","IIIIIIIIIIIIIIII \ 
+","24392\
+(100%)","0\
+(0%)"
+"31",31,"chrnek_morb\
+[factor]","1\. 0\
+2\. 1","\23075 (94.6%)\
+\ 1317 ( 5.4%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA0CAMAAABfCzE1AAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAGdJREFUWIXt17ENACAMxMAA++8MZQok5IovfBO4SIqvFal+B9zVGolO1sxjFmEWYRZhFmEWYRZhFmEWYRZhFjFil08ks4h+W79bmvaJZj2ZRZhFmEWYRZhFmEWYRZhFmEXEToxIoVkbWcZLmth4yb0AAAAASUVORK5CYII=\">","IIIIIIIIIIIIIIII \ 
+","24392\
+(100%)","0\
+(0%)"
+"32",32,"RA_morb\
+[factor]","1\. 0\
+2\. 1","\23809 (97.6%)\
+\  583 ( 2.4%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA0CAMAAABfCzE1AAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAGlJREFUWIXt1zEOACEMxMAA//8zSFx1osAVW3he4CIptkakeh1wVqMlWlk9j1mEWYRZhFmEWYRZhFmEWYRZhFlEi10+kcwivtt6nfG3P9GsO2YRZhFmEWYRZhFmEWYRZhFmEbETI1Jo1gQQ8kwSHaVZHwAAAABJRU5ErkJggg==\">","IIIIIIIIIIIIIIII \ 
+","24392\
+(100%)","0\
+(0%)"
+"33",33,"atrose_morb\
+[factor]","1\. 0\
+2\. 1","\22164 (90.9%)\
+\ 2228 ( 9.1%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA0CAMAAABfCzE1AAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAGdJREFUWIXt17ENACAMxMAA++8MogUhueIL3wQukuJrRKrfAXc1WqKV1fOYRZhFmEWYRZhFmEWYRZhFmEWYRbTY5RPJLOK8rd9F2/GJZj2YRZhFmEWYRZhFmEWYRZhFmEXEToxIoVkT53NLChwj/o8AAAAASUVORK5CYII=\">","IIIIIIIIIIIIIIII \ 
+I","24392\
+(100%)","0\
+(0%)"
+"34",34,"osteop_morb\
+[factor]","1\. 0\
+2\. 1","\23529 (96.5%)\
+\  863 ( 3.5%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA0CAMAAABfCzE1AAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAGlJREFUWIXt17ENACEMBEED/fcMCS+9RMBGXLBTwQZ2cDUi1euAsxot0crqecwizCLMIswizCLMIswizCLMIswiWuzyiWQW8d3W65C//Ylm3TCLMIswizCLMIswizCLMIswi4idGJFCsyaULEviiIjmJwAAAABJRU5ErkJggg==\">","IIIIIIIIIIIIIIII \ 
+","24392\
+(100%)","0\
+(0%)"
+"35",35,"parkinson_morb\
+[factor]","1\. 0\
+2\. 1","\24365 (99.9%)\
+\   27 ( 0.1%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA0CAMAAABfCzE1AAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAGJJREFUWIXt16EBADAMw7Bu+//n9YASowZYFxiEpF6k2g6Y1TuJOuvmMYswizCLMIswizCLMIswizCLMIs4sc8nkllEb2s7YWIWYRZhFmEWYRZhFmEWYRZhFmEWEZsVKTTrA6qpTIah26RPAAAAAElFTkSuQmCC\">","IIIIIIIIIIIIIIII \ 
+","24392\
+(100%)","0\
+(0%)"
+"36",36,"epilepsie_morb\
+[factor]","1\. 0\
+2\. 1","\24103 (98.8%)\
+\  289 ( 1.2%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA0CAMAAABfCzE1AAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAGdJREFUWIXt1yECACEMxMAC//8zcPYQRLEi84KIVmyNSPU64KxGS7Syeh6zCLMIswizCLMIswizCLMIswiziBa7fCKZRXy39Trib3+iWbfMIswizCLMIswizCLMIswizCJiJ0ak0KwJjglMQscL+UYAAAAASUVORK5CYII=\">","IIIIIIIIIIIIIIII \ 
+","24392\
+(100%)","0\
+(0%)"
+"37",37,"alcmisb_morb\
+[factor]","1\. 0\
+2\. 1","\24321 (99.7%)\
+\   71 ( 0.3%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA0CAMAAABfCzE1AAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAGFJREFUWIXt1yECACAMw8AN/v9nwGOiVpF7QURNa0eq6YC/2p3oZq08ZhFmEWYRZhFmEWYRZhFmEWYRZhEd+3wimUW8bU03fJhFmEWYRZhFmEWYRZhFmEWYRZhFxGZFCs06TMBMWusu2+4AAAAASUVORK5CYII=\">","IIIIIIIIIIIIIIII \ 
+","24392\
+(100%)","0\
+(0%)"
+"38",38,"dementie_morb\
+[factor]","1\. 0\
+2\. 1","\24348 (99.8%)\
+\   44 ( 0.2%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA0CAMAAABfCzE1AAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAGJJREFUWIXt16EBADAMw7Bu+//n9YASowZYFxiEpF6k2g6Y1TuJOuvmMYswizCLMIswizCLMIswizCLMIs4sc8nkllEb2s7YWIWYRZhFmEWYRZhFmEWYRZhFmEWEZsVKTTrA6qpTIah26RPAAAAAElFTkSuQmCC\">","IIIIIIIIIIIIIIII \ 
+","24392\
+(100%)","0\
+(0%)"
+"39",39,"schizofr_morb\
+[factor]","1\. 0\
+2\. 1","\24349 (99.8%)\
+\   43 ( 0.2%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA0CAMAAABfCzE1AAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAGJJREFUWIXt16EBADAMw7Bu+//n9YASowZYFxiEpF6k2g6Y1TuJOuvmMYswizCLMIswizCLMIswizCLMIs4sc8nkllEb2s7YWIWYRZhFmEWYRZhFmEWYRZhFmEWEZsVKTTrA6qpTIah26RPAAAAAElFTkSuQmCC\">","IIIIIIIIIIIIIIII \ 
+","24392\
+(100%)","0\
+(0%)"
+"40",40,"Angst_morb\
+[factor]","1\. 0\
+2\. 1","\23744 (97.3%)\
+\  648 ( 2.7%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA0CAMAAABfCzE1AAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAGlJREFUWIXt1zEOACEMxMAA//8zSFx1osAVW3he4CIptkakeh1wVqMlWlk9j1mEWYRZhFmEWYRZhFmEWYRZhFlEi10+kcwivtt6nfG3P9GsO2YRZhFmEWYRZhFmEWYRZhFmEbETI1Jo1gQQ8kwSHaVZHwAAAABJRU5ErkJggg==\">","IIIIIIIIIIIIIIII \ 
+","24392\
+(100%)","0\
+(0%)"
+"41",41,"Depressie_morb\
+[factor]","1\. 0\
+2\. 1","\23346 (95.7%)\
+\ 1046 ( 4.3%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA0CAMAAABfCzE1AAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAGlJREFUWIXt1zEOACEMxMAA//8zVJxOosAVW3he4CIptkakeh1wVqMlWlk9j1mEWYRZhFmEWYRZhFmEWYRZhFlEi10+kcwivtt6XfKzP9GsC2YRZhFmEWYRZhFmEWYRZhFmEbETI1Jo1gTV7UvK/r75jwAAAABJRU5ErkJggg==\">","IIIIIIIIIIIIIIII \ 
+","24392\
+(100%)","0\
+(0%)"
+"42",42,"versthand_morb\
+[factor]","1\. 0\
+2\. 1","\24330 (99.8%)\
+\   62 ( 0.2%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA0CAMAAABfCzE1AAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAGFJREFUWIXt1yECACAMw8AN/v9nwGOiVpF7QURNa0eq6YC/2p3oZq08ZhFmEWYRZhFmEWYRZhFmEWYRZhEd+3wimUW8bU03fJhFmEWYRZhFmEWYRZhFmEWYRZhFxGZFCs06TMBMWusu2+4AAAAASUVORK5CYII=\">","IIIIIIIIIIIIIIII \ 
+","24392\
+(100%)","0\
+(0%)"
+"43",43,"COPD_morb\
+[factor]","1\. 0\
+2\. 1","\22949 (94.1%)\
+\ 1443 ( 5.9%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA0CAMAAABfCzE1AAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAGdJREFUWIXt17ENACAMxMAA++8MZQok5IovfBO4SIqvFal+B9zVGolO1sxjFmEWYRZhFmEWYRZhFmEWYRZhFjFil08ks4h+W79bmvaJZj2ZRZhFmEWYRZhFmEWYRZhFmEXEToxIoVkbWcZLmth4yb0AAAAASUVORK5CYII=\">","IIIIIIIIIIIIIIII \ 
+I","24392\
+(100%)","0\
+(0%)"
+"44",44,"astma_morb\
+[factor]","1\. 0\
+2\. 1","\20768 (85.1%)\
+\ 3624 (14.9%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA0CAMAAABfCzE1AAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAGFJREFUWIXt17ERgEAMA0E/33/PUAAwo+gV7FWwgR1odmVzGvDe7NXYw7r6wkrCSsJKwkrCSsJKwkrCSsJKwkpatcunMqyk39s6yvr+BywsLCwsLCwsLCysZlbnxKislHUDyVtKAsv+N3sAAAAASUVORK5CYII=\">","IIIIIIIIIIIIIIII \ 
+II","24392\
+(100%)","0\
+(0%)"
+"45",45,"hartritme_morb\
+[factor]","1\. 0\
+2\. 1","\24009 (98.4%)\
+\  383 ( 1.6%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA0CAMAAABfCzE1AAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAGdJREFUWIXt1yECACEMxMAC//8zcPYQRLEi84KIVmyNSPU64KxGS7Syeh6zCLMIswizCLMIswizCLMIswiziBa7fCKZRXy39Trib3+iWbfMIswizCLMIswizCLMIswizCJiJ0ak0KwJjglMQscL+UYAAAAASUVORK5CYII=\">","IIIIIIIIIIIIIIII \ 
+","24392\
+(100%)","0\
+(0%)"
+"46",46,"migraine_morb\
+[factor]","1\. 0\
+2\. 1","\23718 (97.2%)\
+\  674 ( 2.8%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA0CAMAAABfCzE1AAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAGlJREFUWIXt1zEOACEMxMAA//8zSFx1osAVW3he4CIptkakeh1wVqMlWlk9j1mEWYRZhFmEWYRZhFmEWYRZhFlEi10+kcwivtt6nfG3P9GsO2YRZhFmEWYRZhFmEWYRZhFmEbETI1Jo1gQQ8kwSHaVZHwAAAABJRU5ErkJggg==\">","IIIIIIIIIIIIIIII \ 
+","24392\
+(100%)","0\
+(0%)"
+"47",47,"hartklep_morb\
+[factor]","1\. 0\
+2\. 1","\24297 (99.6%)\
+\   95 ( 0.4%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA0CAMAAABfCzE1AAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAGFJREFUWIXt1yECACAMw8AN/v9nwGOiVpF7QURNa0eq6YC/2p3oZq08ZhFmEWYRZhFmEWYRZhFmEWYRZhEd+3wimUW8bU03fJhFmEWYRZhFmEWYRZhFmEWYRZhFxGZFCs06TMBMWusu2+4AAAAASUVORK5CYII=\">","IIIIIIIIIIIIIIII \ 
+","24392\
+(100%)","0\
+(0%)"
+"48",48,"neurast_morb\
+[factor]","1\. 0\
+2\. 1","\23979 (98.3%)\
+\  413 ( 1.7%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA0CAMAAABfCzE1AAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAGhJREFUWIXt16EVACEMBNEA/fcMj5OHYBQr5lcwIhFbI1K9Djir0RKtrJ7HLMIswizCLMIswizCLMIswizCLKLFLp9IZhHfbb2u+NmfaNYlswizCLMIswizCLMIswizCLOI2IkRKTRrAs9qTCpyTFQUAAAAAElFTkSuQmCC\">","IIIIIIIIIIIIIIII \ 
+","24392\
+(100%)","0\
+(0%)"
+"49",49,"persoon_morb\
+[factor]","1\. 0\
+2\. 1","\23966 (98.2%)\
+\  426 ( 1.8%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA0CAMAAABfCzE1AAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAGhJREFUWIXt16EVACEMBNEA/fcMj5OHYBQr5lcwIhFbI1K9Djir0RKtrJ7HLMIswizCLMIswizCLMIswizCLKLFLp9IZhHfbb2u+NmfaNYlswizCLMIswizCLMIswizCLOI2IkRKTRrAs9qTCpyTFQUAAAAAElFTkSuQmCC\">","IIIIIIIIIIIIIIII \ 
+","24392\
+(100%)","0\
+(0%)"
+"50",50,"nr_contacts_infection\
+[factor]","1\. 0\
+2\. 1\
+3\. 11\
+4\. 14\
+5\. 16\
+6\. 19\
+7\. 2\
+8\. 20\
+9\. 3\
+10\. 4\
+[ 5 others ]","\12263 (74.3%)\
+\ 2902 (17.6%)\
+\    4 ( 0.0%)\
+\    1 ( 0.0%)\
+\    1 ( 0.0%)\
+\    1 ( 0.0%)\
+\  803 ( 4.9%)\
+\    2 ( 0.0%)\
+\  281 ( 1.7%)\
+\  130 ( 0.8%)\
+\  116 ( 0.7%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAEeCAMAAABfSxzRAAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAYVJREFUeJzt20lqRDEQBUG3ff87ewRPDVau/gNHniAWJSgJ9PA02cPVgPthlbBKWCWs0izrttgL63EvrBJWCauEVcIqYZWwSlglrNJtdpefDKt0NltXsA4OBhYWFhYWFhYWFtb/Zm3u8pNhlV5m62rCvbBKWCWsElYJq4RVwiphlbBKWKVZ1mRYpdnZwjoPq4RVwiphlbBKWCWsElYJqzR785lsljU6W1jnYZWwSlglrBJWCauEVcIqYZVmbz6TzbJGZwvrPKwSVgmrhFXCKmGVsEpYJazSLGsyrNK3n8JXYz77+q8a66+wSlglrBJWCauEVcIqYZV2WZu7/GRYpdk3CKzzsEpYJawSVgmrhFXCKmGVsEqzN5/JsEofTyNXM372/pCEdRZWCauEVcIqYZWwSlglrNIua3OXnwyr9DZbVyN+93oSsU7DKmGVsEpYJawSVgmrhFXaZW3u8pNhlWZna/UkYh2HVcIqYZWwSlglrBJWCau0y9q8YkyGVcIqYZWwSqOsZxwJ4nR/la3DAAAAAElFTkSuQmCC\">","IIIIIIIIIIIIIIII \ 
+III \ 
+ \ 
+ \ 
+ \ 
+ \ 
+I \ 
+ \ 
+ \ 
+ \ 
+","16504\
+(67.66%)","7888\
+(32.34%)"
+"51",51,"nr_prescriptions_AB\
+[factor]","1\. 0\
+2\. 1\
+3\. 2\
+4\. 3\
+5\. 4\
+6\. 5\
+7\. 6\
+8\. 7","\15134 (91.7%)\
+\ 1149 ( 7.0%)\
+\  193 ( 1.2%)\
+\   20 ( 0.1%)\
+\    5 ( 0.0%)\
+\    1 ( 0.0%)\
+\    1 ( 0.0%)\
+\    1 ( 0.0%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAADQCAMAAADS3mihAAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAASFJREFUeJzt1zFuAkEURMHF3P/OYAJLyEjsi7aDqhO8oEeaf9wnHVcHfCarkFXIKo77bdEz62ePrEJWIauQVcgqZBWyClmFrOI2+5efJKt439bVNX/eXqKsL2QVsgpZhaxCViGrkFXIKmQVsyfGJFnFa1tXR/z3+xJlnSWrkFXIKmQVsgpZhaxCVrGbtfmXnySreG7r6oRPZBWyClmFrEJWIauQVcgqZBWyitmsSbKK2W3JOk9WIauQVcgqZBWyClmFrEJWMXv5TJrNGt2WrPNkFbIKWYWsQlYhq5BVyCpkFbNZk2QVs9uSdZ6sQlYhq5BVyCpkFbIKWYWsYvbymTSbNbotWefJKmQVsgpZhaxCViGrkFXIKmYvn0myClmFrOIB0TNdnjwZ8PQAAAAASUVORK5CYII=\">","IIIIIIIIIIIIIIII \ 
+I \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+","16504\
+(67.66%)","7888\
+(32.34%)"
+"52",52,"nr_contacts_resp\
+[factor]","1\. 0\
+2\. 1\
+3\. 2\
+4\. 3\
+5\. 4\
+6\. 5\
+7\. 6\
+8\. 7","\14376 (87.1%)\
+\ 1603 ( 9.7%)\
+\  338 ( 2.0%)\
+\  103 ( 0.6%)\
+\   44 ( 0.3%)\
+\   17 ( 0.1%)\
+\   15 ( 0.1%)\
+\    8 ( 0.0%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAADQCAMAAADS3mihAAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAASNJREFUeJzt1zFSxEAQBEEd+v+fgQMLZKgstZH5gjJ6I3aOc9LxdMA1WYWsQlZxnK9FX1kfe2QVsgpZhaxCViGrkFXIKmQVr9m//CRZxdW2nm4631n/nsHTTaesRlYhq5BVyCpkFbIKWYWsYjdr88SYJKv43dbTGX/9vERZ98gqZBWyClmFrEJWIauQVexmbf7lJ8kqvrf1dMMFWYWsQlYhq5BVyCpkFbIKWYWsYjZrkqxidluy7pNVyCpkFbIKWYWsQlYhq5BVzF4+k2azFqclK5FVyCpkFbIKWYWsQlYhq5BVzGZNklXMbkvWfbIKWYWsQlYhq5BVyCpkFbKK2ctn0mzW6LZk3SerkFXIKmQVsgpZhaxCViGrmL18JskqZBWyik9GPlyKziktAgAAAABJRU5ErkJggg==\">","IIIIIIIIIIIIIIII \ 
+I \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+","16504\
+(67.66%)","7888\
+(32.34%)"
+"53",53,"fever\
+[factor]","1\. 0\
+2\. 1","\24370 (99.9%)\
+\   22 ( 0.1%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA0CAMAAABfCzE1AAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAGJJREFUWIXt16EBADAMw7Bu+//n9YASowZYFxiEpF6k2g6Y1TuJOuvmMYswizCLMIswizCLMIswizCLMIs4sc8nkllEb2s7YWIWYRZhFmEWYRZhFmEWYRZhFmEWEZsVKTTrA6qpTIah26RPAAAAAElFTkSuQmCC\">","IIIIIIIIIIIIIIII \ 
+","24392\
+(100%)","0\
+(0%)"
+"54",54,"nr_chron3\
+[factor]","1\. 0\
+2\. 1\
+3\. 2\
+4\. 3","\12208 (50.0%)\
+\ 6715 (27.5%)\
+\ 3076 (12.6%)\
+\ 2393 ( 9.8%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAABoCAMAAAAkR/m5AAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAJ1JREFUaIHt17ENgDAQBEED/fcMIQEBJ4E5pNkKJvi33mOrbHwNuA4raWxLYwdr7QsrCSsJKwkrCSsJKwkrCSsJK6mY1Vjth6yyWtYLk/EI6/k9wsLCwsLCwsLCwsKawer8YlSGlXR3tuazJi0XFhYWFhYWFhYW1n9Znbd8ZVhJtayqUT+xmh4GLCwsLCwsLCwsrEpW5y1fGVZSKWsHltOaWfmrHFEAAAAASUVORK5CYII=\">","IIIIIIIIIIIIIIII \ 
+IIIIIIII \ 
+IIII \ 
+III","24392\
+(100%)","0\
+(0%)"
+"55",55,"episode_start\
+[factor]","1\. 01apr2014\
+2\. 01aug2014\
+3\. 01dec2014\
+4\. 01jul2014\
+5\. 01may2014\
+6\. 01oct2014\
+7\. 01sep2014\
+8\. 02apr2014\
+9\. 02dec2014\
+10\. 02jan2014\
+[ 247 others ]","\  128 ( 0.5%)\
+\   58 ( 0.2%)\
+\  127 ( 0.5%)\
+\   74 ( 0.3%)\
+\   85 ( 0.4%)\
+\   76 ( 0.3%)\
+\   86 ( 0.4%)\
+\  125 ( 0.5%)\
+\  104 ( 0.4%)\
+\  132 ( 0.5%)\
+\23397 (95.8%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAEeCAMAAABfSxzRAAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAWdJREFUeJzt2KEBw0AMBEE76b/npACDX+QDMxUsEDld30nX2wHPZBWyClmFrGI2677fbnggq5BVyCpkFbIKWYWsQlYhq5BVzC6fSbNZi6clK5FVyCpkFbIKWYWsQlYhq5BVzC6fSbNZoz8IWedkFbIKWYWsQlYhq5BVyCpkFbNZk2QVs7cl65ysQlYhq5BVyCpkFbIKWYWsYnb5TJrNGr0tWedkFbIKWYWsQlYhq5BVyCpkFbPLZ9Js1uhtyTonq5BVyCpkFbIKWYWsQlYhq5jNmiSrmL0tWedkFbIKWYWsQlYhq5BVyCpkFbPLZ9Js1uhtyTonq5BVyCpkFbIKWYWsQlYhq5hdPpNkFbMnL+ucrEJWIauQVcgqZBWyClmFrGJ2+UyazRq9LVnnZBWyClmFrEJWIauQVcgqZBWzy2fSbNa96J/12SOrkFXIKmQVsgpZhaxCViGrGM5aNDvIJskqZBWyClnFD60Y5YbQkhmKAAAAAElFTkSuQmCC\">"," \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+IIIIIIIIIIIIIIII","24392\
+(100%)","0\
+(0%)"
+"56",56,"episode_end\
+[factor]","1\. 01apr2014\
+2\. 01aug2014\
+3\. 01dec2014\
+4\. 01jan2015\
+5\. 01jul2014\
+6\. 01may2014\
+7\. 01oct2014\
+8\. 01sep2014\
+9\. 02apr2014\
+10\. 02dec2014\
+[ 247 others ]","\  118 ( 0.5%)\
+\   78 ( 0.3%)\
+\  108 ( 0.4%)\
+\  114 ( 0.5%)\
+\   82 ( 0.3%)\
+\  118 ( 0.5%)\
+\   64 ( 0.3%)\
+\   53 ( 0.2%)\
+\  117 ( 0.5%)\
+\   70 ( 0.3%)\
+\23470 (96.2%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAEeCAMAAABfSxzRAAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAWdJREFUeJzt2KEBw0AMBEE76b/npACDX+QDMxUsEDld30nX2wHPZBWyClmFrGI2677fbnggq5BVyCpkFbIKWYWsQlYhq5BVzC6fSbNZo7cl65ysQlYhq5BVyCpkFbIKWYWsYnb5TJrNGr0tWedkFbIKWYWsQlYhq5BVyCpkFbNZk2QVs7cl65ysQlYhq5BVyCpkFbIKWYWsYnb5TJrNGr0tWedkFbIKWYWsQlYhq5BVyCpkFbPLZ9Js1uhtyTonq5BVyCpkFbIKWYWsQlYhq5jNmiSrmL0tWedkFbIKWYWsQlYhq5BVyCpkFbPLZ9Js1uJpyUpkFbIKWYWsQlYhq5BVyCpkFbPLZ5KsYvY1IuucrEJWIauQVcgqZBWyClmFrGJ2+UyazRq9LVnnZBWyClmFrEJWIauQVcgqZBWzy2fSbNa96J/12SOrkFXIKmQVsgpZhaxCViGrGM5aNDvIJskqZBWyClnFD4ta5YZAaqENAAAAAElFTkSuQmCC\">"," \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+IIIIIIIIIIIIIIII","24392\
+(100%)","0\
+(0%)"
+"57",57,"practice_size\
+[factor]","1\. 10007\
+2\. 10343\
+3\. 10888\
+4\. 11830\
+5\. 12118\
+6\. 12122\
+7\. 12615\
+8\. 12757\
+9\. 13287\
+10\. 1462\
+[ 284 others ]","\  141 ( 0.6%)\
+\  125 ( 0.5%)\
+\  180 ( 0.7%)\
+\  284 ( 1.2%)\
+\  180 ( 0.7%)\
+\  193 ( 0.8%)\
+\  354 ( 1.4%)\
+\  231 ( 0.9%)\
+\  157 ( 0.6%)\
+\   12 ( 0.0%)\
+\22535 (92.3%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAEeCAMAAABfSxzRAAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAXRJREFUeJzt2jESwjAQBEEb/v9ncE6gidig+wUTnKt0lq73pOvfAb/JKmQVsgpZxWzWff+74QdZhaxCViGrkFXIKmQVsgpZhaxidvOZNJs1OluyzskqZBWyClmFrEJWIauQVcgqZjefSbNZo7Ml65ysQlYhq5BVyCpkFbIKWYWsYjZrkqzima3B4fpmvWSdklXIKmQVsgpZhaxCViGr2M3aPMtPklXM/oOQdU5WIauQVcgqZBWyClmFrEJWMbv5TJrNGp0tWedkFbIKWYWsQlYhq5BVyCpkFbNZk2QVs1foqw8OZB2TVcgqZBWyClmFrEJWIauYPctPklXMztbqlyjrmKxCViGrkFXIKmQVsgpZxexZfpKsYjZrceJlJbIKWYWsQlYhq5BVyCpkFbKK2c1n0mzW4mjJSmQVsgpZhaxCViGrkFXIKmQVs5vPpNmse9Hz4GCPrEJWIauQVcgqZBWyClmFrGI4a9HsQjZJViGrkFXIKj5JReVB/xVsqgAAAABJRU5ErkJggg==\">"," \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+IIIIIIIIIIIIIIII","24392\
+(100%)","0\
+(0%)"
+"58",58,"duration\
+[factor]","1\. 101\
+2\. 104\
+3\. 105\
+4\. 107\
+5\. 112\
+6\. 125\
+7\. 135\
+8\. 164\
+9\. 28\
+10\. 29\
+[ 68 others ]","\    1 ( 0.0%)\
+\    2 ( 0.0%)\
+\    1 ( 0.0%)\
+\    1 ( 0.0%)\
+\    1 ( 0.0%)\
+\    1 ( 0.0%)\
+\    1 ( 0.0%)\
+\    1 ( 0.0%)\
+\19948 (81.8%)\
+\  241 ( 1.0%)\
+\ 4194 (17.2%)","<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAEeCAMAAABfSxzRAAAADFBMVEX9/v2mpqb39/f9/v0TNkn1AAAABHRSTlP///8AQCqp9AAAAXJJREFUeJzt2DFuw0AQBEHJ/v+fLSsVAV1HnKD6BRUMgVs+fid73A24DquEVcIqYZVmWc+7CVdhlbBKWCWsElYJq4RVwiphlbBKs5fPZLOs0W1hnYdVwiphlbBKWCWsElYJq4RVmr18JptljW4L6zysElYJq4RVwiphlbBKWCWs0ixrMqzS7LawzsMqYZWwSlglrBJWCauEVcIqzV4+k82yRreFdR5WCauEVcIqYZWwSlglrBJWafbymWyWNbotrPOwSlglrBJWCauEVcIqYZWwSrOsybBKs9vCOg+rhFXCKmGVsEpYJawSVgmrNHv5TDbLGt0W1nlYJawSVgmrhFXCKmGVsEpYpdnLZzKs0mvyi71YP3thlbBKWCWsElYJq4RVwiphlZ6zb/nJsErvbd2N+Oz/S8Q6DauEVcIqYZWwSlglrBJWaZe1+ZafDKv0/R/EXawvP0+wsLCwsLCwsLCwsEZZmyfGZFglrBJWCas0yvoDrkjkXIMcRP0AAAAASUVORK5CYII=\">"," \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+ \ 
+IIIIIIIIIIIIIIII \ 
+ \ 
+III","24392\
+(100%)","0\
+(0%)"
